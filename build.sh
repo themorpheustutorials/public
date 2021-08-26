@@ -8,7 +8,7 @@ cat <<EOF > index.html
 EOF
 
 # TODO walk through directory
-for file in $(ls | grep -v 'build.sh\|index.html'); do
+for file in $(ls | grep -v 'build.sh\|index.html\|Discord_Regeln.md'); do
     echo -e "<a href='${file}'>${file}</a></br>" >> index.html
 done
 
