@@ -40,3 +40,4 @@ steht.
 
 **15.** Das Teilen von Executables sowie von Dateien, deren Öffnen mit der Ausführung von Code einhergeht, muss zuvor von einem Teammitglied genehmigt werden.
 
+**16.** Unbegründete und unsachliche abwertende Äußerungen sind untersagt. Diese können sich gegen Personen, Institutionen, Produkte, Gewohnheiten oder alles andere richten.
